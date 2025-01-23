@@ -4,7 +4,7 @@ on:
   push:
 
 env:
-  GHCR_REPO: ghcr.io/NickCao/docker-matrix-build
+  GHCR_REPO: ghcr.io/nickcao/docker-matrix-build
 
 jobs:
   build:
